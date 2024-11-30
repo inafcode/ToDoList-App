@@ -213,9 +213,7 @@ public class ToDoListApp {
         addToDoList("Tiga");
 
         showToDoList();
-
         viewRemoveToDoList();
-
         showToDoList();
     }
 }
