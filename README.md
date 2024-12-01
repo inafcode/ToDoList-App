@@ -4,10 +4,8 @@ This project is a **Simple ToDoList** application built using **Java**. It allow
 
 ## Demo
 
-<video controls>
-  <source src="assets/demo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+Watch the demo video at [assets/demo.mp4](assets/demo.mp4)
+
 
 ## Features
 
@@ -38,10 +36,7 @@ Proyek ini adalah aplikasi **ToDoList** sederhana yang dibuat menggunakan bahasa
 
 ## Demo
 
-<video controls>
-  <source src="assets/demo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+Tonton demo video di [assets/demo.mp4](assets/demo.mp4)
 
 
 ## Fitur
